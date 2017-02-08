@@ -7,3 +7,20 @@ img {
   width: 90%;
   height: auto;
 }
+
+.first p {
+  font-family: cursive;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+.first h4 {
+  color: red;
+  font-style: italic;
+}
+
+.column a {
+  color: green;
+}
