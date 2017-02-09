@@ -3,7 +3,7 @@
   float: left;
 }
 
-img {
+.column img {
   width: 90%;
   height: auto;
   border: 7px solid black;
@@ -27,4 +27,18 @@ h2 {
 
 .column a {
   color: green;
+}
+
+.column2 {
+width: 25%;
+float: right;
+}
+
+.column2 img {
+  width: 80%;
+  height: auto;
+  border: 10px solid purple;
+  margin: 15px;
+  padding: 10px;
+  background-color: green;
 }
